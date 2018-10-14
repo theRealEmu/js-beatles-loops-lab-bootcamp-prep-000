@@ -37,4 +37,7 @@ const facts = [
 
 function johnLennonFacts(factsArr) {
   
+  while factsArr[i] {
+    factsArr[i].ap
+  }
 }
