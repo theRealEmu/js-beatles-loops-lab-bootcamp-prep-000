@@ -25,6 +25,7 @@ function theBeatlesPlay(musiciansArr, instrumentsArr) {
 
 //Create a function johnLennonFacts.
 //This function will accept one argument, an array of facts about John Lennon (note that it might not be exactly the following facts):
+//Use a while loop to loop over the facts array and add "!!!" to the end of every fact.
 
 function johnLennonFacts(factsArr) {
   
