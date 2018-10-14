@@ -34,7 +34,6 @@ const facts = [
 ];
 
 //Use a while loop to loop over the facts array and add "!!!" to the end of every fact.
-
 function johnLennonFacts(factsArr) {
   
   var i = 0;
