@@ -9,7 +9,7 @@ function theBeatlesPlay(musiciansArr, instrumentsArr) {
   for (let i = 0; i < musiciansArr.length; i += 1) {
     
     var str = `${musiciansArr[i]} plays ${instrumentsArr[i]}`;
-    Array.concat(musiciansAndInstruments, str);
+    musiciansAndInstruments.concat(str);
     
   }
   
