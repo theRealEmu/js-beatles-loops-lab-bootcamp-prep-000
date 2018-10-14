@@ -45,3 +45,4 @@ function johnLennonFacts(factsArr) {
   
   return factsArr;
 }
+
