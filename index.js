@@ -5,4 +5,13 @@
 function theBeatlesPlay(musiciansArr, instrumentsArr) {
   
   var arr = [];
+  
+  for (let i = 0; i < musiciansArr.length; i += 1) {
+    
+    var str = `${musiciansArr[i]} plays ${instrumentsArr[i]}`;
+    arr.concat(str);
+    
+  }
+  
+  
 }
